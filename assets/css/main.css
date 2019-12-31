@@ -20,6 +20,7 @@ section, summary, time, mark, audio, video {
   padding: 0;
   border: 0;
   font-size: 100%;
+  color: #404040;
   font: inherit;
   vertical-align: baseline; }
 
@@ -91,7 +92,7 @@ body {
 
 /* Type */
 body, input, select, textarea {
-  color: #666666;
+  color: #404040;
   font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif;
   font-size: 13pt;
   font-weight: 400;
@@ -132,7 +133,7 @@ p {
   font-size: 14px; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #3d4449;
+  color: #404040;
   font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif;
   font-weight: 700;
   line-height: 1.5;
@@ -1893,7 +1894,7 @@ button,
     text-rendering: auto;
     line-height: 1;
     text-transform: none !important;
-    font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif;
+    font-family: 'Font Awesome 5 Free';
     font-weight: 900; }
   #search form:before {
     -moz-transform: scaleX(-1);
@@ -1985,7 +1986,7 @@ button,
       text-rendering: auto;
       line-height: 1;
       text-transform: none !important;
-      font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif;
+      font-family: 'Font Awesome 5 Free';
       font-weight: 900; }
     #sidebar .toggle:before {
       content: '\f0c9';
@@ -2233,7 +2234,7 @@ button,
         text-rendering: auto;
         line-height: 1;
         text-transform: none !important;
-        font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif;
+        font-family: 'Font Awesome 5 Free';
         font-weight: 900; }
       #menu ul a.opener:before, #menu ul span.opener:before {
         -moz-transition: color 0.2s ease-in-out, -moz-transform 0.2s ease-in-out;
